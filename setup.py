@@ -24,6 +24,6 @@ setup(
         "Django",
     ],
     package_data={'extra_exceptions': [
-        'templates/extra+exceptions/default_error_page.html',
+        'templates/extra_exceptions/default_error_page.html',
     ]},
 )
