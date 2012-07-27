@@ -9,7 +9,7 @@ except IOError:
     long_description = None
 
 setup(
-    name='django-panfeed',
+    name='django-extra-exceptions',
     version='1.0.0',
     url="https://github.com/chronossc/http403",
     description='Extra exception handling to mirror django.http.http404',
