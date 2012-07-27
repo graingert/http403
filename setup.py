@@ -10,7 +10,7 @@ except IOError:
 
 setup(
     name='django-extra-exceptions',
-    version='1.0.0',
+    version='1.0.1',
     url="https://github.com/chronossc/http403",
     description='Extra exception handling to mirror django.http.http404',
     long_description=long_description,
