@@ -21,7 +21,7 @@ setup(
     platforms='any',
     packages=['extra_exceptions',],
     install_requires=[
-        "Django",
+        "Django >= 1.3",
     ],
     package_data={'extra_exceptions': [
         'templates/extra_exceptions/default_error_page.html',
